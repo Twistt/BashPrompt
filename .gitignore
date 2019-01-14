@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/CommandLine.DNC/v15/Server/sqlite3
+/obj
+/bin/Debug/netcoreapp2.1
+/.vs/CommandLine.DNC/v15
